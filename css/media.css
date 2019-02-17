@@ -1,0 +1,568 @@
+@media (max-width: 1200px) {
+
+    .multi-nav .search-input,
+    .multi-nav .nav-social,
+    .multi-nav .telephone,
+    .multi-nav .nav-email {
+        font-size: 11px;
+    }
+
+    nav .nav ul>li,
+    .carousel-caption p,
+    .logo-text p {
+        font-size: 12px
+    }
+
+    .slider .carousel-indicators li {
+        width: 30px;
+    }
+
+    .carousel-caption h3,
+    .services .announce p,
+    .services .btn,
+    .item .btn {
+        font-size: 16px;
+    }
+
+    .owl-carousel.owl-loaded {
+        height: 400px;
+        overflow: hidden;
+    }
+
+    .owl-carousel .owl-item {
+        width: 250px !important;
+    }
+
+    .images .plus-img {
+        height: 190px;
+    }
+
+    .images .img1 {
+        height: 395px
+    }
+
+    .tabs li {
+        padding: 8px 35px;
+    }
+
+    .tabs .items img {
+        max-width: 12%;
+    }
+
+    .logo-text {
+        padding: 35px 15px
+    }
+
+    .news,
+    .connect,
+    .forms {
+        margin-top: 40px
+    }
+
+    .news span,
+    .news p {
+        font-size: 10px
+    }
+
+    .connect p {
+        font-size: 13px;
+    }
+
+    .connect span {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .forms .form-control,
+    .forms .btn {
+        font-size: 14px;
+    }
+
+    .trmometer>span {
+        bottom: 7.5%;
+        height: 9px;
+    }
+
+}
+
+@media (max-width: 992px) {
+
+    .multi-nav .search-input,
+    .multi-nav .nav-social,
+    .multi-nav .telephone,
+    .multi-nav .nav-email {
+        font-size: 8px;
+    }
+
+    nav ul>li,
+    .carousel-caption p,
+    .logo-text p {
+        font-size: 10px
+    }
+
+    nav ul>li {
+        padding: 8px
+    }
+
+    h3 {
+        font-size: 17px;
+    }
+
+    h4 {
+        font-size: 13px;
+    }
+
+    h5 {
+        font-size: 9px;
+    }
+
+    .btn {
+        font-size: 16px
+    }
+
+    .search-input input::placeholder {
+        font-size: 10px
+    }
+
+    .carousel-caption h3,
+    .services .announce p,
+    .services .btn,
+    .item .btn {
+        font-size: 10px;
+    }
+
+    .slider .carousel-indicators li {
+        width: 25px;
+    }
+
+    .carousel-caption h3 {
+        margin-top: 60px
+    }
+
+    .owl-carousel.owl-loaded {
+        height: 350px;
+        overflow: hidden;
+    }
+
+    .owl-carousel .owl-item {
+        width: 220px !important;
+    }
+
+    .tabs li {
+        padding: 5px 25px;
+    }
+
+    .services .btn img,
+    .item .btn img {
+        width: 30px;
+        height: 15px;
+    }
+
+    .logo-text {
+        padding: 30px 12px
+    }
+
+    .news,
+    .connect,
+    .forms {
+        margin-top: 25px
+    }
+
+    .news span,
+    .news p {
+        font-size: 9px;
+        margin: 0
+    }
+
+    .connect p {
+        font-size: 12px;
+    }
+
+    .connect span {
+        font-size: 9px;
+        margin-top: 15px;
+    }
+
+    .forms .form-control,
+    .forms .btn {
+        font-size: 12px;
+    }
+
+    .images .plus-img {
+        height: 140px;
+    }
+
+    .images .img1 {
+        height: 300px
+    }
+
+    .first-span span:last-of-type::after,
+    .second-span span:last-of-type::after {
+        width: 10px;
+        height: 10px;
+    }
+
+    .trmometer>span {
+        bottom: 7%;
+        height: 8px;
+    }
+
+    .first-span,
+    .second-span {
+        font-size: 12px;
+        width: 125px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .navbar-default .navbar-toggle {
+        float: right
+    }
+
+    .multi-nav .search-input,
+    .multi-nav .nav-social,
+    .multi-nav .telephone,
+    .multi-nav .nav-email {
+        font-size: 6px;
+    }
+    .nav-social span{
+        margin: 5px 0px 0;
+    }
+    .carousel-caption p,
+    .logo-text p {
+        font-size: 8px
+    }
+
+    .carousel-caption h3 {
+        margin: 20px auto 10px
+    }
+
+    .carousel-caption h3,
+    .services .announce p,
+    .services .btn,
+    .item .btn {
+        margin-top: 5px;
+        font-size: 8px
+    }
+    .services .announce p{
+        margin: 20px 5px
+    }
+    .services .btn img,
+    .item .btn img {
+        width: 25px;
+        height: 12px;
+    }
+
+    h3 {
+        font-size: 16px;
+    }
+
+    h4 {
+        font-size: 12px;
+    }
+
+    h5 {
+        font-size: 8px;
+    }
+
+    .btn {
+        font-size: 14px
+    }
+
+    .search-input input::placeholder {
+        font-size: 8px
+    }
+
+    .owl-carousel.owl-loaded {
+        height: 300px;
+        overflow: hidden;
+    }
+
+    .owl-carousel .owl-item p {
+        margin: 10px;
+        font-size: 8px;
+        padding: 5px;
+    }
+
+    .owl-carousel .owl-item {
+        width: 200px !important;
+    }
+
+    .tabs li {
+        padding: 5px 20px;
+    }
+
+    .tabs li.active::after,
+    .tabs .green1::after,
+    .tabs .green2::after,
+    .tabs .green3::after,
+    .tabs .green4::after,
+    .tabs .green5::after {
+        border-left: 15px solid transparent;
+        border-right: 15px solid transparent;
+    }
+
+    .gallery p {
+        font-size: 8px
+    }
+
+    .images .plus-img {
+        margin: 0 3px 5px 0;
+        height: 123px;
+        width: 100px;
+    }
+
+    .img-program span {
+        font-size: 14px
+    }
+
+    .images .img1 {
+        height: 250px
+    }
+
+    .tabs li {
+        padding: 5px 20px;
+        font-size: 8px;
+    }
+
+    .logo-text {
+        padding: 10px 5px
+    }
+
+    .location img {
+        width: 7%;
+    }
+
+    .location span {
+        font-size: 16px;
+    }
+
+    .news,
+    .connect,
+    .forms {
+        margin-top: 10px
+    }
+
+    .news span,
+    .news p {
+        font-size: 6px;
+        margin: 0
+    }
+
+    .connect p {
+        font-size: 8x;
+    }
+
+    .connect span {
+        font-size: 6px;
+        margin-top: 5px;
+    }
+
+    .forms .form-control {
+        width: 60%
+    }
+
+    .forms .form-control,
+    .forms .btn {
+        font-size: 6px;
+    }
+
+    .first-span span:last-of-type::after,
+    .second-span span:last-of-type::after {
+        width: 7px;
+        height: 7px;
+    }
+
+    .trmometer>span {
+        bottom: 4.5%;
+        height: 7px;
+    }
+
+    .first-span,
+    .second-span {
+        font-size: 10px;
+        width: 90px;
+    }
+
+}
+
+@media (max-width: 576px) {
+
+    .multi-nav .search-input,
+    .multi-nav .nav-social,
+    .multi-nav .telephone,
+    .multi-nav .nav-email {
+        font-size: 3px;
+        padding: 1px;
+    }
+
+    .carousel-caption p,
+    .logo-text p {
+        font-size: 5px
+    }
+
+    nav img {
+        width: 100%
+    }
+
+    .slider .carousel-indicators li {
+        width: 15px;
+    }
+
+    .carousel-caption h3 {
+        margin: 5px auto 10px
+    }
+
+    .carousel-caption p {
+        margin: 20px auto 5px;
+    }
+
+    .btn {
+        padding: 6px 30px;
+        font-size: 10px
+    }
+
+    .services .btn, .item .btn {
+        padding: 5px 10px;
+    }
+
+    .carousel-caption h3,
+    .services .announce p,
+    .services .btn,
+    .item .btn {
+        margin-top: 5px;
+        font-size: 6px
+    }
+
+    .services .btn img,
+    .item .btn img {
+        width: 16px;
+        height: 8px;
+    }
+
+    h3 {
+        font-size: 12px;
+    }
+
+    h4 {
+        font-size: 8px;
+    }
+
+    h5 {
+        font-size: 6px;
+    }
+    h3 img {
+    margin-bottom: 25px
+    }
+
+    .search-input input::placeholder {
+        font-size: 3px
+    }
+
+    .trmometer {
+        width: 90%;
+    }
+
+    .images .plus-img {
+        margin: 0 3px 5px 0;
+        height: 78px;
+        width: 85px;
+    }
+
+    .images .img1 {
+        height: 160px
+    }
+
+    .img-program span {
+        font-size: 10px
+    }
+    
+    .gallery p {
+        font-size: 6px
+    }
+
+    .tabs li {
+        padding: 5px 8px;
+        font-size: 6px
+    }
+
+    .tabs li.active::after,
+    .tabs .green1::after,
+    .tabs .green2::after,
+    .tabs .green3::after,
+    .tabs .green4::after,
+    .tabs .green5::after {
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+    }
+
+    .logo-text {
+        padding: 10px 5px 5px
+    }
+
+    .location img {
+        width: 7%;
+    }
+
+    .location span {
+        font-size: 12px;
+    }
+
+    .news,
+    .connect,
+    .forms {
+        margin-top: 10px
+    }
+
+    .news span,
+    .news p {
+        font-size: 5px;
+        margin: 0
+    }
+
+    .connect p {
+        font-size: 6px;
+    }
+
+    .connect span {
+        font-size: 6px;
+        margin-top: 5px;
+    }
+
+    .forms .form-control {
+        width: 80%
+    }
+
+    .forms .form-control,
+    .forms .btn {
+        font-size: 6px;
+        padding: 5px 15px
+    }
+
+    .trmometer>span {
+        bottom: 5%;
+        height: 6px;
+    }
+
+    .first-span,
+    .second-span {
+        font-size: 7px;
+        width: 70px;
+    }
+
+    footer h4 {
+        font-size: 8px;
+        margin: 5px 0 0
+    }
+
+    footer h5 {
+        font-size: 5px;
+        margin: 5px 0 0
+    }
+
+    .multi-footer span {
+        font-size: 8px;
+        padding: 5px 2px;
+    }
+}
